@@ -1,4 +1,4 @@
 # pranay-demo
 This is my first Git Repository
 <br>
-Author- Pranay
+Author- Pranay K
